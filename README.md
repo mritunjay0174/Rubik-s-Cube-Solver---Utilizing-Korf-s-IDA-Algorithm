@@ -1,4 +1,4 @@
-# rubiks-cube-cracker
+# rubiks-cube-solver
 
 A virtual Rubik's Cube with a built-in optimal solver written in C++ and
 rendered with OpenGL.  The optimal solver can solve any scrambled cube in 20
